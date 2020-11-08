@@ -2,6 +2,7 @@
 
 Using the available online dataset of Parkinson's Disease and it's patients, I used different machine learning algorithims and models to try and predict if a patient is confirmed with the disease or not depending on the data of each patient in the dataset.
 
+## Summary:
 ### Model Accuaracy:
 |Model Name:  | Accuracy %: |
 |-------------|-------------|
